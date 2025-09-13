@@ -27,7 +27,7 @@ I am particularly interested in understanding the dynamics of vector-borne disea
 ---
 
 ⭐️ *“Committed to advancing public health through data, modeling, and open science.”*  
-👉 Would you like me to also add GitHu
+
 <!---
 lameckagasa/lameckagasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
